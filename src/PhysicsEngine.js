@@ -1,7 +1,7 @@
 // CLEAR Motion — 物理驱动的动效引擎
 // Copyright (c) 2026 芜湖灵动亿创网络科技有限公司
 // SPDX-License-Identifier: MIT
-// https://github.com/ … 见仓库 README
+// https://github.com/overloadshop/clear-motion
 // CLEAR Motion
 class PhysicsEngine {
   constructor() {

@@ -63,3 +63,9 @@
 ## 许可
 
 [MIT](LICENSE)。原生版本（C++ / 预编译库）是独立的 CLEAR Motion Pro，采用另一套许可。
+
+---
+
+© 2026 芜湖灵动亿创网络科技有限公司 (Wuhu Lindicra Network Technology Co., Ltd)
+
+本项目的法律主体以上述中文名称为准。
