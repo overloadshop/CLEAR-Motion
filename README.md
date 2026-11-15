@@ -5,6 +5,8 @@
 它不是给关键帧补间用的：运动由弹簧、阻尼、重力、空气阻力实时积分出来，
 所以随时改目标、随时打断，画面都会自然地接下去——这正是「跟手」和「可打断」的基础。
 
+- **下载**：[Releases](https://github.com/overloadshop/CLEAR-Motion/releases/latest)，单文件 `PhysicsEngine.js`。
+
 ## 三个模块
 
 | 模块 | 用途 |
