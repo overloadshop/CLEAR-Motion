@@ -60,6 +60,11 @@
 
 任一支持 `requestAnimationFrame` 的现代浏览器。没有构建步骤，没有依赖。
 
+## 文档
+
+- [`docs/CLEAR-Motion.html`](docs/CLEAR-Motion.html) — 设计白皮书与操作手册：物理模型、
+  三个模块、参数语义与调用示例，双击 HTML 即可打开。
+- 原生版本（C++ / 预编译库）的文档在 [CLEAR Motion Pro](https://github.com/overloadshop/CLEAR-Motion-Pro) 仓库。
 ## 许可
 
 [MIT](LICENSE)。原生版本（C++ / 预编译库）是独立的 CLEAR Motion Pro，采用另一套许可。
