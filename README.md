@@ -1,11 +1,16 @@
 # CLEAR Motion
 
+> **双源同步** · [GitHub](https://github.com/overloadshop/CLEAR-Motion) / [GitCode](https://gitcode.com/bananabanxian/CLEAR-Motion)
+
 物理驱动的动效引擎，浏览器里的轻量实现。零依赖，一个 `PhysicsEngine.js` 放进页面即可。
 
 它不是给关键帧补间用的：运动由弹簧、阻尼、重力、空气阻力实时积分出来，
 所以随时改目标、随时打断，画面都会自然地接下去——这正是「跟手」和「可打断」的基础。
 
-- **下载**：[Releases](https://github.com/overloadshop/CLEAR-Motion/releases/latest)，单文件 `PhysicsEngine.js`。
+- **下载**：[GitHub Releases](https://github.com/overloadshop/CLEAR-Motion/releases/latest) /
+  [GitCode Releases](https://gitcode.com/bananabanxian/CLEAR-Motion/releases)，单文件 `PhysicsEngine.js`。
+- **克隆**：`git clone https://github.com/overloadshop/CLEAR-Motion.git`（国内可用
+  `git clone https://gitcode.com/bananabanxian/CLEAR-Motion.git`）。
 
 ## 三个模块
 
